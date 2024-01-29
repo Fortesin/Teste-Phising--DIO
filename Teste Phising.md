@@ -23,4 +23,5 @@
 - Então, eu optei por usar o método "Web Templates". Selecionei dentre as opções "Twitter", assim gerenado uma página de login do próprio antigo twitter mas, sendo falsa para obter igualmente as informações de login.
 
 
-![Alt text](./C:\Users\Rafael Cassavia\Pictures "Meu teste Phishing")
+![Meu teste phising](https://github.com/Fortesin/Teste-Phising--DIO/assets/77688449/f64bda17-801d-4e80-a709-bf24d60ba93b)
+
